@@ -53,8 +53,4 @@ This is a Movie Recommender System project that uses a Content-Based approach to
 - Kaggle dataset:[[link to the dataset]](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 
-## Contact
 
-For any questions or inquiries, please contact siddharthkeshar5678@gmail.com.
-
----
